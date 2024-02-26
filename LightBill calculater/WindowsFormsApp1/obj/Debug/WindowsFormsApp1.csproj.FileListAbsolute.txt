@@ -1,0 +1,10 @@
+C:\Users\Windows 10\Documents\visual Studio\C# consept\LightBill calculater\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Windows 10\Documents\visual Studio\C# consept\LightBill calculater\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Windows 10\Documents\visual Studio\C# consept\LightBill calculater\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Windows 10\Documents\visual Studio\C# consept\LightBill calculater\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Documents\visual Studio\C# consept\LightBill calculater\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Windows 10\Documents\visual Studio\C# consept\LightBill calculater\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Windows 10\Documents\visual Studio\C# consept\LightBill calculater\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Windows 10\Documents\visual Studio\C# consept\LightBill calculater\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Documents\visual Studio\C# consept\LightBill calculater\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Windows 10\Documents\visual Studio\C# consept\LightBill calculater\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
